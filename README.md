@@ -1,0 +1,4 @@
+pybomb
+======
+
+Esimene proge projekt
